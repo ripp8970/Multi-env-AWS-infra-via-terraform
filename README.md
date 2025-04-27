@@ -1,4 +1,4 @@
-# Multi-Environment AWS Infrastructure via Terraform
+# Multi-Cloud Environment AWS Infrastructure via Terraform
 
 [![Terraform Version](https://img.shields.io/badge/terraform-~>1.x-blue.svg)](https://www.terraform.io) 
 
